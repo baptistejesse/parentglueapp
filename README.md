@@ -1,0 +1,1 @@
+This is just ann app where teachers can connect with parents. Work in progress.

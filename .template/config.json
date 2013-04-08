@@ -1,0 +1,30 @@
+{
+	"author": "bakayad@gmail.com", 
+	"config_version": "2", 
+	"description": "An empty app created by default", 
+	"modules": {
+		"calendar": true, 
+		"contact": true, 
+		"file": true, 
+		"is": true, 
+		"logging": {
+			"level": "DEBUG"
+		}, 
+		"media": true, 
+		"prefs": true, 
+		"reload": true, 
+		"request": {
+			"permissions": [
+				"http://*/*", 
+				"https://*/*"
+			]
+		}, 
+		"tabbar": true, 
+		"tabs": true, 
+		"tools": true, 
+		"topbar": true
+	}, 
+	"name": "Pglue", 
+	"platform_version": "v1.4", 
+	"version": "0.1"
+}
